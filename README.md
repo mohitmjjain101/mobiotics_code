@@ -1,5 +1,5 @@
-# mobiotics_code
- This Repo contain all the lambda and services for Mobiotics Task
+# Sample_code
+ This Repo contain all the lambda and services.
 
 
 #authentication_lambda contain Lambda funtion code for authentication
